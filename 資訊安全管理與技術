@@ -1,10 +1,10 @@
-資訊安全的三個目標:
-機密性(Confidentiality):
+#資訊安全的三個目標:
+##機密性(Confidentiality):
 資訊之秘密性與隱私性，應防止機密資訊外洩
 確保資料傳遞與儲存的私密性。
 避免未經授權的使用者有意或無意的揭露資料內涵
 *******************************************
-完整性(Integrity)
+##完整性(Integrity)
 資訊或系統之正確性，應防制人為刻意竄改與自
 然雜訊干擾；防制假冒或未授權方式存取系統資
 源進行資料之處理或更改。
@@ -12,7 +12,7 @@
 所使用的文件經傳送或儲存過程中必需證明其內容並
 未遭到竄改或偽造才能稱為完整性。
 *******************************************
-可用性(Availability)
+##可用性(Availability)
 資訊與資訊處理的可獲得性，應避免資訊因系統故
 障或人為惡意的阻斷服務。
 讓資料隨時保持可用狀況。
@@ -21,45 +21,45 @@
 系統的高度可用性通常指的是必需確保不能中斷服
 務。
 *******************************************
-字辭與定義:
+#字辭與定義:
 
-鑑別度
+##鑑別度
 
-不可否認性
+##不可否認性
 
-可歸責性
+##可歸責性
 
-可靠度
+##可靠度
 
-ISO 27001/ISMS
+##ISO 27001/ISMS
 
-風險管理
+##風險管理
 
-政策
+##政策
 
-控制項
+##控制項
 
-PDCA
+##PDCA
 
-教育訓練/意識
+##教育訓練/意識
 
-矯正措施
+##矯正措施
 
-量測/績效
+##量測/績效
 
-有效性
+##有效性
 
-重要資安概念:
-邊界與分類(Boundary and classification)
+#重要資安概念:
+##邊界與分類(Boundary and classification)
 
-職務區隔(Segregation of duties, SOD)
+##職務區隔(Segregation of duties, SOD)
 
-縱深防禦(Layered defense, defense in depth)
+##縱深防禦(Layered defense, defense in depth)
 
-單一脆弱點(Single point of failure, SPOF)
+##單一脆弱點(Single point of failure, SPOF)
 
-阿奇里斯腱(Achilles heel)
+##阿奇里斯腱(Achilles heel)
 
-木桶理論(Bucker principle）
+##木桶理論(Bucker principle）
 
-僅知原則(Need to know)
+##僅知原則(Need to know)
